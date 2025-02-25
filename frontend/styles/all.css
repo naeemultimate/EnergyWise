@@ -50,6 +50,10 @@ body{
     color: var(--primary-button)
 }
 
+main-background{
+    background: var(--background-dark)
+}
+
 .lg-button{
     border-radius: 10px;
     background: var(--primary-button);
