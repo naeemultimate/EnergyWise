@@ -1,1 +1,4 @@
 # EnergyWise
+
+## Dependencies
+`npm install`
