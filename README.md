@@ -1,5 +1,2 @@
 # EnergyWise
-
-## Dependencies
-- `npm install` to install all relevant dependencies
-- adjust .env file for the databricks connection
+This was a draft repo before moving our files over to `https://github.com/EnergyWise-BetaGroup`
